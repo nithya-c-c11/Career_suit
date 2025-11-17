@@ -1,0 +1,12 @@
+google-generativeai
+gradio
+PyPDF2
+pytesseract
+Pillow
+pandas
+scikit-learn
+openpyxl
+faiss-cpu
+numpy
+tesseract
+libtesseract-dev
